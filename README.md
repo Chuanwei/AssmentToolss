@@ -37,6 +37,16 @@ liod@ubuntu:~/AssmentToolss$ pip install -r requirements.txt
 
 ![](https://github.com/LiodAir/AssmentToolss/blob/master/images/AssmentTools.png)
 ![](https://github.com/LiodAir/AssmentToolss/blob/master/images/TIM%E6%88%AA%E5%9B%BE20180402113019.png)
+![](https://github.com/LiodAir/AssmentToolss/blob/master/images/TIM%E6%88%AA%E5%9B%BE20180402113236.png)
+![](https://github.com/LiodAir/AssmentToolss/blob/master/images/TIM%E6%88%AA%E5%9B%BE20180402113356.png)
+
+--------------------------------------------------------------
+
+## 维护修改
+
+--------------------------------------------------------------
+
+>end
 
 
 
